@@ -1,0 +1,4 @@
+interface:
+  display_name: "SendPing AI Setup"
+  short_description: "Integrate SendPing into any codebase"
+  default_prompt: "Use $sendping-ai-skill to set up SendPing securely in this codebase and verify the integration end to end."
